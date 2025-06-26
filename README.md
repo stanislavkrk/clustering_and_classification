@@ -34,7 +34,7 @@ Building on the previous clustering, this project trains neural networks to clas
 - Clustering: K-Means, DBSCAN, GMM, Hierarchical
 - Dimensionality Reduction: PCA
 - Neural Networks: TensorFlow (Sequential API)
-- Evaluation: Silhouette Score, Cluster Profiling, Accuracy
+- Evaluation: F1-Score, Accuracy
 - Data handling: Pandas, NumPy, Matplotlib, Seaborn
 
 ---
